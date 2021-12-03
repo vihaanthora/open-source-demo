@@ -37,4 +37,6 @@ git commit -m <commit_message>
 ```
 git push origin <name_of_branch>
 ```
-- Create a pull request from the GitHub page of your forked repository. This will be a request to merge the branch you created in your forked repository to the main branch of this repository. Add suitable content in your pull request to make it stand out, for example, which issue has been addressed, list of all the tasks that were taken up in the pull request, etc.
+- Create a pull request from the GitHub page of your forked repository. This will be a request to merge the branch you created in your forked repository to the main branch of this repository.
+- Add suitable content in your pull request to make it stand out, for example, which issue has been addressed, list of all the tasks that were taken up in the pull request, etc.
+- Await the approval by a maintainer.
