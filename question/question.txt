@@ -7,4 +7,4 @@ Gnastres bravely intruded the brewery and started poisoning the bottles. As soon
 But now, Choperderne faces a huge task ahead of determining which bottle has been poisoned. The poison took one whole day to kill a man after consumption, and the wedding was to happen the very next day. 
 So, the king came up with an idea of forcing his prisoners to ingest little quantities of beer from every bottle to find out the poisoned bottle. You, a kind yet obedient minister, are given the task to find out the bottle till morning.
 Find out the minimum number of prisoners that must be used to eliminate the threat. (One prisoner may ingest from more than one bottle)
-Note: Your answer should be given as an integer, followed by a brief explanation of your thought process.
+Note: Your answer should be given as an integer, followed by a brief explanation of your thought process. Refer to the file 'vihaan.txt' as an example.
