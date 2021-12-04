@@ -23,8 +23,9 @@ git branch <name_of_branch>
 git checkout <name_of_branch>
 ```
 - Open the repository folder created in your code editor. If your using VS Code, you can type `code .` to open this folder directly from the terminal.
-- Create a new file in the submission folder and name it as `<your_name>_<name_of_file_changed>.txt`.
-- Type a brief explanation of the solution/corrections in that file and save it. 
+- Create a new file in the submission folder and name it as `<your_name>.txt`.
+- Type the answer to the question given in the question folder.
+- For pointing out errors such as typos, formatting, etc. in the problem statement, raise an issue through the issues section in the repository menu.
 - Stage the changes for the commit.
 ```
 git add .
