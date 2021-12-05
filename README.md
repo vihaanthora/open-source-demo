@@ -22,6 +22,7 @@ git branch <name_of_branch>
 ```
 git checkout <name_of_branch>
 ```
+- You can alternatively type `git checkout -b <name_of_branch>` to create a branch and checkout that branch in one step.
 - Open the repository folder created in your code editor. If your using VS Code, you can type `code .` to open this folder directly from the terminal.
 - Create a new file in the submission folder and name it as `<your_name>.txt`.
 - Type the answer to the question given in the question folder.
